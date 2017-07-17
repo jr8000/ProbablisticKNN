@@ -1,0 +1,1 @@
+python -i -c "import sys; sys.path.append('C:\\[PATH TO KNN PROJECT FOLDER]'); import knn; training_data = [(1, [1.0, 1.0]), (1, [2.0, 1.0]), (2, [3.0, 1.0]), (2, [4.0, 1.0])]; k = knn.ProbablisticKNN(training_data)"
