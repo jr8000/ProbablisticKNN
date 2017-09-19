@@ -14,4 +14,4 @@ There will be 5 public methods for each model instance:
 
 For more information on a specific one, view its doc string.
 
-Finally, see the example file "start_knn.bat" for more details (keep in mind that the part of this file that reads "[PATH TO KNN PROJECT FOLDER]" must be changed to the directory where your copy of "knn.py" is located).
+Finally, if running Windows, run the example "start_knn.bat" (in this script, change "[PATH TO KNN PROJECT FOLDER]" to the directory where your "knn.py" is located).
